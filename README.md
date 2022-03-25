@@ -2,7 +2,7 @@
 <br>
 Full Stack Software Engineer, Roblox Specialist
 <br>
-Cognitive Science Major (specializing in Machine Learning) @ UC San Diego
+B.S. in CogSci w/ specialization in Machine Learning.
 <br>
 👋
 <br><br>
