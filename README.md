@@ -1,5 +1,3 @@
-**Max Borsch**
-<br>
 Full Stack Software Engineer, Roblox Specialist
 <br>
 B.S. in CogSci w/ specialization in Machine Learning.
