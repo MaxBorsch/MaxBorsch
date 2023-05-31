@@ -1,7 +1,3 @@
-Full Stack Software Engineer, Roblox Specialist
-<br>
-B.S. in CogSci w/ specialization in Machine Learning.
-<br>
-👋
+Software Engineer, Roblox Specialist
 <br><br>
 [![asd](https://i.ibb.co/g4W50yD/twitter.png)](https://twitter.com/Meta_Maxim)
